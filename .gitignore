@@ -1,3 +1,21 @@
+# Dependencies
+node_modules
+
+# Next.js
+.next
+out
+.vercel
+*.log
+
+# Env
+.env
+.env.*
+
+# Editor
+.DS_Store
+.idea
+.vscode
+
 # Comprehensive .gitignore template for AI-generated projects
 # Covers most common languages, frameworks, and tools
 
